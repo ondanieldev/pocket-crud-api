@@ -1,6 +1,6 @@
 {
   "name": "procket-crud-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A base repository for creating CRUD APIs",
   "main": "dist/index.js",
   "repository": "git@github.com:ondanieldev/pocket-crud-api.git",
